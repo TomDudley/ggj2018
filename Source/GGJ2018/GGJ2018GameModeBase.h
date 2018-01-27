@@ -13,8 +13,8 @@ UCLASS()
 class GGJ2018_API AGGJ2018GameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
-	
-	
+
+
+		AGGJ2018GameModeBase();
 	
 };
